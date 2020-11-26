@@ -1,0 +1,5 @@
+Goosebumps,R.L. Stine,25,2
+Hunger Games,Suzanne Collins,15,1.5
+American Sniper,Chris Kyle,25,1.5
+The Alchemist,Paulo Coelho,20,2
+Fahrenheit 451,Ray Bradbury,15,2

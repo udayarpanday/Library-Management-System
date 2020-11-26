@@ -1,0 +1,12 @@
+	
+	|===================================|
+	|----------LIBRARY MENU-------------|
+	|===================================|
+
+     1. Display all available book
+
+     2. Request a book
+
+     3. Return a book
+
+     4. Exit
